@@ -32,6 +32,8 @@ descrip_e = Entry(root, textvariable=descrip_var)
 descrip_e.grid(row=4, column=1)
 
 
+### Comentario de prueba ###
+
 
 
 
